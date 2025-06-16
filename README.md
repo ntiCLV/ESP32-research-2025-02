@@ -14,3 +14,10 @@ ESP8266 NodeMCU:Capteur environnemental BME680 utilisant Arduino IDE[cliquez-ici
 Video Youtube tutos[cliquez-ici](https://www.youtube.com/watch?v=joAkJ9QA2bw)
 
 Commande MS-Dos[cliquez-ici](https://www.progmatique.fr/article-48-Batch-liste-commandes-MsDos.html)
+
+Cablage d'une esp3 avec une bme 680[cliquez-ici](https://www.youtube.com/watch?v=Hl-p_l7d75I)
+
+Installation de virtual studio code[cliquez-ici](https://docs.espressif.com/projects/esp-idf/en/v5.4.1/esp32s3/get-started/index.html)
+
+Installation de esp-idf[cliquez-ici](https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md)
+
