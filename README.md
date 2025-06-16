@@ -11,7 +11,7 @@ Guide pour le Capteur BME688 Environmental Sensor[cliquez-ici](https://seengreat
 
 ESP8266 NodeMCU:Capteur environnemental BME680 utilisant Arduino IDE[cliquez-ici](https://www.raspberryme.com/esp8266-nodemcu-capteur-environnemental-bme680-utilisant-arduino-ide/)
 
-Video Youtube tutos[cliquez-ici](https://www.youtube.com/watch?v=joAkJ9QA2bw)
+Video Youtube tutos qui explique comment fonctionne les batteries[cliquez-ici](https://www.youtube.com/watch?v=joAkJ9QA2bw)
 
 Commande MS-Dos[cliquez-ici](https://www.progmatique.fr/article-48-Batch-liste-commandes-MsDos.html)
 
