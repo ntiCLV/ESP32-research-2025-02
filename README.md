@@ -19,7 +19,7 @@ Faire clignoter une led avec un esp32[cliquez-ici](https://www.youtube.com/watch
 
 Doc espressif[cliquez-ici](https://docs.espressif.com/projects/esp-idf/en/v5.4.1/esp32s3/get-started/index.html)
 
-Installation de esp-idf[cliquez-ici](https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md)
+Installation de esp-idf avec virtual studio code[cliquez-ici](https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md)
 
 Installation de virtual studio code[cliquez-ici](https://code.visualstudio.com/)
 
