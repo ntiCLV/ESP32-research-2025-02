@@ -6,3 +6,5 @@ recherche sur les batteries [cliquez-ici](https://www.amazon.fr/diymore-Shield-R
 Travail sur esphome [cliquez-ici](http://homeassistant.local:8123/hassio/addon/5c53de3b_esphome/info?addon=5c53de3b_esphome&rereposito_url=https%3A%2F%2Fgithub.com%2Fesphome%2Fhome-assistant-addon)
 
 Connaissance du site CPU-World[cliquez-ici](https://www.cpu-world.com/)
+
+Guide pour le Capteur BME688 Environmental Sensor[cliquez-ici](https://seengreat.com/wiki/162/bme680-environmental-sensor-bme688-environmental-sensor)
